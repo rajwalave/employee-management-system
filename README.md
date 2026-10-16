@@ -44,7 +44,7 @@ A command-line Employee Management System for managing employee records, departm
    DB_HOST=localhost
    DB_PORT=3306
    DB_USER=root
-   DB_PASSWORD=your_mysql_password
+   DB_PASSWORD= ****
    DB_NAME=employee_management
    ```
 5. Start the app:
